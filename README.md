@@ -34,7 +34,9 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/kushalmehta2004/PricingPanel.git
-
+2. Navigate to the project directory.
+3. Open the index.html file.
+   
 ## Usage
 Feel free to customize the content and styles to fit your needs. Update the HTML file with your own pricing details and adjust the CSS for styling preferences.
 
